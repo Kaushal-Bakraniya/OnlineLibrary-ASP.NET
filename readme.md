@@ -11,7 +11,7 @@ The frontend has been customized based on an existing template to provide an app
 Upon launching the application, you will be presented with a login screen. Enter your credentials to access the system. The default account credentials for admin are as follows:
 
 - Username: admin
-- Password: admin@123
+- Password: 1234
 
 Once logged in, you can navigate through the different modules of the system using the sidebar menu. Perform actions such as adding books, managing members and more.
 
