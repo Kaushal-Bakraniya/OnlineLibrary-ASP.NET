@@ -2,7 +2,7 @@
 
 ## Introduction
 
-ReaderZ-LMS (Library Management System) is a web-based application developed using ASP.NET that allow users to efficiently manage their library activities. It provides both user and admin functionalities, making it a complete solution for libraries looking to manage and distribute books.
+ReaderZ-LMS (Library Management System) is a web-based application developed using ASP.NET that allow users to efficiently manage their library activities. It provides both user and admin functionalities, making it a complete solution for libraries to manage and distribute books.
 
 The frontend has been customized based on an existing template to provide an appealing and user-friendly interface. The System offers users the ability to issue books online, download audiobooks, and download PDF books. For administrators, it offers features to manage books, users, and feedback etc.
 
